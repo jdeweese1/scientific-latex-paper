@@ -123,7 +123,13 @@ We can also use this to include perhaps a classifaction report produced from skl
 
 # Building the report
 
-This set of scripts is based on @shubernetskiy_2019, and @gist.
+This set of scripts is based on @shubernetskiy_2019, and @gist. Run the following code to make the pdf:
+
+```bash
+$ make paper
+```
+
+
 
 # Acknowledgements
 
