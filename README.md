@@ -9,7 +9,7 @@ This repo provides a bulid system for writing scientific papers in Markdown, the
 - [pandoc-include](https://github.com/DCsunset/pandoc-include)
 - make
 
-These first 3 can be installed with hombrew on macOS with:
+These first 2 can be installed with hombrew on macOS with:
 
 ```bash
 $ brew install pandoc pandoc-citeproc
