@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+      normal       0.73      0.51      0.60       288
+     abusive       0.88      0.29      0.44       408
+     hateful       0.25      0.79      0.38       169
+-----------------------------------------------------
+    accuracy       0.00      0.00      0.46       865
+    macroavg       0.62      0.53      0.47       865
+ weightedavg       0.71      0.46      0.48       865
+
