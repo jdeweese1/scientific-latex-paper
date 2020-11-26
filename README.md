@@ -29,4 +29,4 @@ $ make tex
 $ make tex2pdf
 $make clean
 ```
-
+See [the pdf tutorial](./tutorial.pdf) for more info
